@@ -22,8 +22,8 @@
 - 📊 Stock & crypto tracker web app
 
 ### 📫 How to reach me:
-- 📧 Email: parvsurana26@gmail.com  
-- 💼 LinkedIn: [Parv Surana](https://www.linkedin.com/in//parv-surana-919229357)  
+- 📧 Email: suranaparv26@gmail.com  
+- 💼 LinkedIn: [Parv Surana](https://www.linkedin.com/in/parv-surana-919229357)  
 - 🌐 Portfolio: Coming Soon!
 
 ---
@@ -46,6 +46,13 @@
   <img src="https://streak-stats.demolab.com?user=parvsurana26&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvsurana26&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation:
+<p align="center">
+  <img src="https://github.com/parvsurana26/parvsurana26/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---

@@ -41,18 +41,9 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvsurana26&show_icons=true&theme=radical" alt="Parv's GitHub stats" />
-  <br />
   <img src="https://streak-stats.demolab.com?user=parvsurana26&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvsurana26&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🐍 Contribution Snake Animation:
-<p align="center">
-  <img src="https://github.com/parvsurana26/parvsurana26/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
